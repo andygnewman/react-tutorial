@@ -8,5 +8,25 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1420070499999,
+        "author": "Andy Newman",
+        "text": "Reactively publishing comments"
+    },
+    {
+        "id": 1449487611346,
+        "author": "Fred Flintstone",
+        "text": "Yabbadabbadoo"
+    },
+    {
+        "id": 1449487678370,
+        "author": "David Cameron",
+        "text": "Boo"
+    },
+    {
+        "id": 1449487693076,
+        "author": "fasdf",
+        "text": "asdfasf"
     }
 ]
